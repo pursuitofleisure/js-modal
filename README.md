@@ -1,5 +1,7 @@
 # js-modal
- A simple modal using HTML, CSS and vanilla JS from Wes Bos's Beginner JavaScript course.
+ A simple modal using HTML, CSS and vanilla JS inspired by Wes Bos's Beginner JavaScript course.
+
+[JS-A-Sketch Demo](https://www.pursuitofleisure.com/demos/js-modal/ "JS Modal")
 
 ## Built With
 
